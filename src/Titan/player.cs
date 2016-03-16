@@ -102,6 +102,7 @@ package PlayerTitanPackage
 		%obj.clearTools();
 
 		%obj.name = getTitanName(%this.titanType);
+		%obj.sourceObject = %obj;
 		%obj.setShapeName(%obj.name, "8564862");
 		%obj.setShapeNameDistance(30);
 
