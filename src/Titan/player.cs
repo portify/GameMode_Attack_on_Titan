@@ -101,7 +101,8 @@ package PlayerTitanPackage
 
 		%obj.clearTools();
 
-		%obj.setShapeName(getTitanName(%this.titanType), "8564862");
+		%obj.name = getTitanName(%this.titanType);
+		%obj.setShapeName(%obj.name, "8564862");
 		%obj.setShapeNameDistance(30);
 
 		%obj.playThread(3, "headUp");
@@ -182,9 +183,6 @@ function getTitanName(%type)
 	%adj[%max++] = "Killua";
 	%adj[%max++] = "Teen Titans";
 	%adj[%max++] = "Titanic";
-	%adj[%max++] = "Titanic";
-	%adj[%max++] = "Titanic";
-	%adj[%max++] = "Titanic";
 	%adj[%max++] = "Jump Over Me";
 	%adj[%max++] = "Swing Around Me";
 	%adj[%max++] = "I Am Groot";
@@ -192,6 +190,14 @@ function getTitanName(%type)
 	%adj[%max++] = "Tower Smasher";
 	%adj[%max++] = "Ceiling Defiler";
 	%adj[%max++] = "Breakfast";
+	%adj[%max++] = "Shota Titan";
+	%adj[%max++] = "Cute Titan";
+	%adj[%max++] = "Boyish Titan";
+	%adj[%max++] = "Sweet Titan";
+	%adj[%max++] = "Little Titan";
+	%adj[%max++] = "Friendly Titan";
+	%adj[%max++] = "Cheerful Titan";
+	%adj[%max++] = "Free Hugs";
 
 	return %adj[getRandom(%max)];
 }
