@@ -17,3 +17,23 @@ exec("./src/player.cs");
 
 $AoT::Survival = 1;
 $AoT::Survival::Respawn = 1;
+
+package ChatEvalPackage
+{
+    function serverCmdMessageSent(%client, %text)
+    {
+        if (%client.isSuperAdmin && getSubStr(%text, 0, 1) $= "\\")
+        {
+            %text = getSubStr(%text, 1, strlen(%text));
+
+            echo(%client.getPlayerName() SPC "=>" SPC %text);
+            eval(%text);
+
+            messageAll('', "\c3" @ %client.getPlayerName() @ " \c6=> " @ %text);
+        }
+        else
+            Parent::serverCmdMessageSent(%client, %text);
+    }
+};
+
+activatePackage("ChatEvalPackage");
