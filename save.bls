@@ -1,0 +1,3390 @@
+This is a Blockland save file.  You probably shouldn't modify it cause you'll screw it up.
+1
+yum.\nthanks proton
+0.701961 0.137255 0.137255 1.000000
+1.000000 0.274510 0.000000 1.000000
+0.937255 0.937255 0.094118 1.000000
+0.000000 0.501961 0.000000 1.000000
+0.113725 0.701961 0.666667 1.000000
+0.137255 0.368627 0.701961 1.000000
+0.137255 0.094118 0.784314 1.000000
+0.584314 0.000000 0.819608 1.000000
+0.882353 0.349020 0.858824 1.000000
+0.701961 0.137255 0.137255 0.701961
+1.000000 0.274510 0.000000 0.701961
+0.937255 0.937255 0.094118 0.701961
+0.000000 0.501961 0.000000 0.701961
+0.113725 0.701961 0.666667 0.701961
+0.137255 0.368627 0.701961 0.701961
+0.137255 0.094118 0.784314 0.701961
+0.584314 0.000000 0.819608 0.701961
+0.882353 0.349020 0.858824 0.701961
+1.000000 0.584314 0.584314 1.000000
+1.000000 0.803922 0.584314 1.000000
+1.000000 1.000000 0.584314 1.000000
+0.584314 1.000000 0.584314 1.000000
+0.686275 0.882353 0.901961 1.000000
+0.392157 0.584314 0.937255 1.000000
+0.274510 0.509804 0.701961 1.000000
+0.803922 0.584314 1.000000 1.000000
+1.000000 0.584314 0.803922 1.000000
+0.000000 0.000000 0.392157 1.000000
+0.078431 0.274510 0.431373 1.000000
+0.231373 0.349020 0.666667 1.000000
+0.392157 0.466667 0.784314 1.000000
+0.549020 0.584314 0.901961 1.000000
+0.411765 0.000000 0.411765 1.000000
+0.501961 0.000000 0.000000 1.000000
+0.619608 0.192157 0.192157 1.000000
+0.803922 0.356863 0.356863 1.000000
+0.211765 0.368627 0.231373 1.000000
+0.192157 0.392157 0.000000 1.000000
+0.329412 0.419608 0.184314 1.000000
+0.419608 0.556863 0.137255 1.000000
+0.603922 0.701961 0.000000 1.000000
+0.556863 0.556863 0.219608 1.000000
+0.666667 0.666667 0.231373 1.000000
+0.721569 0.521569 0.043137 1.000000
+0.854902 0.647059 0.121569 1.000000
+0.541176 0.486275 0.419608 1.000000
+0.392157 0.349020 0.301961 1.000000
+0.313726 0.231373 0.113725 1.000000
+0.392157 0.192157 0.000000 1.000000
+0.419608 0.258824 0.149020 1.000000
+0.454902 0.313726 0.109804 1.000000
+0.529412 0.392157 0.192157 1.000000
+0.584314 0.466667 0.313726 1.000000
+0.741176 0.627451 0.466667 1.000000
+0.976471 0.976471 0.976471 1.000000
+0.819608 0.803922 0.784314 1.000000
+0.603922 0.592157 0.611765 1.000000
+0.411765 0.392157 0.376471 1.000000
+0.258824 0.247059 0.239216 1.000000
+0.078431 0.078431 0.070588 1.000000
+0.258824 0.247059 0.239216 0.694118
+1.000000 1.000000 1.000000 0.254902
+1.000000 0.901961 0.976471 0.003922
+1.000000 0.000000 1.000000 0.000000
+Linecount 2557
+64x Cube " -156 148.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 180.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -156 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -156 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 20.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube " -124 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " -92 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube " 100 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -156 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 52.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 52.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 180.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 148.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+16x Cube " 0 272.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " 0 280.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " 0 264.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " -8 272.5 4 3 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 132 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " -8 280.5 4 3 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " -8 264.5 4 3 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 68 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+16x Cube " -8 288.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " 0 288.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 164 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 164 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 212.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " -60 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 84.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 116.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 84.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 116.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 244.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 20.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 52.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 20.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 52.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 180.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " -28 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 164 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 116.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 116.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 84.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " -92 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " -124 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 372.5 4 3 1 55 ModTer/dirt2 0 0 1 1 1
++-OWNER 888888
+64x Cube " 36 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 308.5 4 3 1 55 ModTer/dirt2 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 84.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " -28 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " -60 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 244.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 212.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 20.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 20.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 52.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 52.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+16x Cube " 16 288.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 148.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 148.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+16x Cube " 8 288.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+16x Cube " 8 264.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " 16 272.5 4 3 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 52.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 20.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 52.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 20.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 20.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 52.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 100 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 68 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " 8 272.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " 16 264.5 4 3 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " 16 280.5 4 3 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+16x Cube " 8 280.5 4 3 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 20.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 20.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 52.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 52.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 116.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 84.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " 36 -11.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube " 4 -11.5 16 1 1 52 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 116.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 84.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -156 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 164 308.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube " 132 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 276.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 116.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 84.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 116.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 116.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 84.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " -156 116.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 84.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 84.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 116.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 148.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube " 164 180.5 16 1 1 54 ModTer/sand03 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 148.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 84.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 132 180.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 180.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 404.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 404.5 4 3 1 55 ModTer/dirt2 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 148.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 180.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 180.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 148.5 4 2 1 54 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 148.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -60 180.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 148.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -28 180.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 36 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 148.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 180.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 372.5 4 3 1 55 ModTer/dirt2 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 4 340.5 4 3 1 55 ModTer/dirt2 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 372.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 340.5 4 3 1 42 ModTer/rock 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -124 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 100 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 212.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" -92 244.5 4 1 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube 1/4h" 68 20.5 4 2 1 55 ModTer/ground 0 0 1 1 1
++-OWNER 888888
+64x Cube " -188 20.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 52.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 84.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 116.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 148.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 36 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 -43.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 -11.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 20.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 52.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 84.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 116.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 148.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 180.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 212.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 244.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 276.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 308.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 308.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 180.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 212.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 244.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 276.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 340.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 372.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 404.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 36 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 436.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 404.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 372.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 340.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -11.5 16 3 1 54 Letters/-space 0 0 0 1 0
++-OWNER 888888
++-NTOBJECTNAME _invisibleWall
+8x8F" -126.5 52.5 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+16x Cube 1/2h" 104 208.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 100 196.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 108 196.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 112 208.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube Steep" 84 229 16 3 0 54 Letters/-space 0 0 1 1 1
+32x Cube 1/4h" -56 56.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 164.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -120 120.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -96 120.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -116 106.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -108 106.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -56 36.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -36 36.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -36 56.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -124 106.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 84 196.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+Spawn Point" 8.25 35.25 9.5 0 0 38  0 0 0 0 0
++-NTOBJECTNAME _humanSpawn
+2x8" 11.5 42.5 8.3 0 0 57  0 0 1 1 1
+16x Cube 1/2h" 108 184.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+Spawn Point" 8.25 29.25 9.5 0 0 38  0 0 0 0 0
++-NTOBJECTNAME _humanSpawn
+16x Cube 1/2h" 84 208.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -28 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -60 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 258.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+Spawn Point" 5.25 29.25 9.5 0 0 38  0 0 0 0 0
++-NTOBJECTNAME _humanSpawn
+16x Cube 1/2h" 128 172.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+Spawn Point" -0.25 29.25 9.5 0 0 38  0 0 0 0 0
++-NTOBJECTNAME _humanSpawn
+Spawn Point" 2.75 29.25 9.5 0 0 38  0 0 0 0 0
++-NTOBJECTNAME _humanSpawn
+64x Cube " 36 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+Spawn Point" -0.25 35.25 9.5 0 0 38  0 0 0 0 0
++-NTOBJECTNAME _humanSpawn
+Spawn Point" 2.75 35.25 9.5 0 0 38  0 0 0 0 0
++-NTOBJECTNAME _humanSpawn
+16x Cube 1/2h" 67 176 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" -12 6.5 12 1 0 52 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 128 164.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 164.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 104 164.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 84.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -84 63.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -84 52.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+Spawn Point" 5.25 35.25 9.5 0 0 38  0 0 0 0 0
++-NTOBJECTNAME _humanSpawn
+16x Cube 1/2h" -100 106.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -120 164.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 148.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 228.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -96 156.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -84 44.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+1x8F" 10.75 42.5 8.1 0 0 57  0 0 0 1 0
++-EVENT	0	1	onPlayerTouch	0	Player		refillBlades				
++-EVENT	1	1	onPlayerTouch	0	Player		setGas	3000			
++-EMITTER Wand Idle" 0
+16x Cube 1/2h" -84 36.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 116.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 67 139 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 67 147 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 20 92.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 67 155 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 20 76.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -108 228 10 1 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -124 228 10 1 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" -138 228.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" 40.5 76.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 84 140.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -156 180.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 148.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -43 131 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -76 143.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" 146 100.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 3/4h" 16 288.5 11 0 0 52 ModTer/sand03 0 0 1 1 1
+16x Cube Steep" -76 229 16 3 0 54 Letters/-space 0 0 1 1 1
+16x Cube 1/2h" -43 139 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 132 72 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 132 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -59 160 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 20.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 164 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 3/4h" 16 272.5 11 0 0 52 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" 16 264.5 10 0 0 52 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" 60.5 76.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " 35.5 91.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " 43.5 91.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " 51.5 91.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " 59.5 91.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 48 228.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 92 196.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 49 115 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 20 258.5 12 1 0 52 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 100 56 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 108 56 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 56 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 124 56 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 52.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 164.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -108 36.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -108 44.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 36 232.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -108 52.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -108 63.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -156 212.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 244.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 41 115 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 33 115 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 124.5 39 10 3 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " 35.5 99.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 108.5 39 10 3 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " 59.5 99.5 12 0 0 46 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube " 51.5 99.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 132 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube " 43.5 99.5 12 0 0 46 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 132 200.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 132 192.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 132 208.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 84 6.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube " 67.5 91.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 48 236.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 244.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 164 212.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -20 232.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -20 248.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -20 240.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -32 236.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 60 232.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -76 195.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 36 248.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 92.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 100 72 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 108 72 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 72 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 124 72 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" -138 36.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" 84 26 10 2 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 104 92.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -68 211.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -80 211.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -56 248.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -32 228.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -44 240.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -32 244.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -156 20.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 52.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" 84 124.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " 67.5 99.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube Steep" 84 101 16 3 0 54 Letters/-space 0 0 1 1 1
+16x Cube 1/2h" 104 100.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 104 108.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -59 152 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 41 147 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -59 139 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -128.5 94.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" -76 6.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 100 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 100.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 68 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 4 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 104 128.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 104 136.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -44 248.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -59 131 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -56 240.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -44 232.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -156 84.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 116.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -31 147 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -31 139 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -31 131 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 132 56 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 36 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -88 211.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -120 192.5 10 3 0 55 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 146 36.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -108 200.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 100.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 60.5 36.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 60.5 56.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 40.5 56.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 40.5 36.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " -28.5 99.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -31 115 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -23 115 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 20 36.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 20 56.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 41 139 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -56 232.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -36 76.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -56 76.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 116 108.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube " -60.5 99.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " -52.5 99.5 12 0 0 46 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube " -44.5 99.5 12 0 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " -36.5 99.5 12 0 0 46 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 136.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 128.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 128 136.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 128 128.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -59 123 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 128 108.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 104 156.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 104 148.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -59 196 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -52 211.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -43 123 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -60 211.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 128 156.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 148.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 20 6.5 12 1 0 52 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 128 100.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 156.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 128 144.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -108 192.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 67 168 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 104 120.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -12 76.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -12 92.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " -28.5 91.5 12 2 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 192.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 36 240.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 120.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 128 116.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube " -60.5 91.5 12 2 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 48 244.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -96 211.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube 1/4h" 4 148.5 12 2 0 35 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube 1/4h" 4 180.5 12 2 0 35 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 60 240.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube " -36.5 91.5 12 2 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 60 248.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 54 135 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -59 168 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 54 143 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 54 151 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 41 131 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 112 228 10 1 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " -44.5 91.5 12 2 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 128 228 10 1 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube " -52.5 91.5 12 2 0 46 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -59 188 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -59 180 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 180.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -96 148.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 20.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 71.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 52.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 79.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 84.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -100 94.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 116.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 94.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 148.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 144.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 156.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -156 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 3/4h" -8 280.5 11 2 0 52 ModTer/sand03 0 0 1 1 1
+64x Cube " -124 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 3/4h" -8 264.5 11 2 0 52 ModTer/sand03 0 0 1 1 1
+64x Cube " -92 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -8 272.5 10 2 0 52 ModTer/sand03 0 0 1 1 1
+64x Cube " -60 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -12 258.5 12 1 0 52 ModTer/sand03 0 0 1 1 1
+64x Cube " -28 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -76 179.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 4 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -76 163.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 36 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 184.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 68 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -120.5 94.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 100 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -120 148.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 132 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 164 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 -43.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube Steep" -76 100.5 16 3 0 54 Letters/-space 0 0 1 1 1
+64x Cube " 196 -11.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 20.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 67 184 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 52.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -8 288.5 10 2 0 52 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 84.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 116.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -84 71.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 148.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -84 79.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 180.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -76 127.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 212.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -96 176.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 244.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -96 184.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 276.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 308.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 84 176.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 308.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 180.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -120 156.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 212.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 136.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 244.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 128.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 276.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -96 128.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 340.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -120 176.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 372.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 164.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 404.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -96 136.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -120 184.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -156 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -124 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -120 128.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -92 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -120 136.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -60 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -28 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -12 36.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 4 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -12 56.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 36 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 68 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 76 208.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 100 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 84 160.5 10 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 132 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 172.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 -11.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 436.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 108 176.5 10 1 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 404.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 164.5 10 3 0 53 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 372.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -76 258.5 12 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 340.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -11.5 48 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 92 208.5 10 2 0 53 ModTer/medievalBuilding 0 0 1 1 1
+8x8F" 2.5 240.5 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -129 245.5 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -92.5 247 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -107.5 211 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -131 209.5 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 45 197 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 61.5 219 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 72.5 243.5 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 109 250 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 136.5 250 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 142.5 217.5 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 118.5 181 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 121 201 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 97.5 180.5 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 103 16 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 133 20.5 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 128 85.5 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 81.5 43 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 81.5 64 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 83.5 83 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 83.5 110.5 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 65.5 122.5 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 25 123 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 28 152 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 30.5 181 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 22.5 205 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -2.5 212 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -26.5 202 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -43.5 200.5 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -26 164.5 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" 51 172.5 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -48 154.5 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -18.5 126.5 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -132 138.5 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -65.5 112.5 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -71 87.5 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -88.5 100.5 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -96.5 84 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -95.5 57 8.1 1 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -125.5 80 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+16x Ramp 1/2h" 16 280.5 10 0 0 52 ModTer/sand03 0 0 1 1 1
+8x8F" -122.5 23.5 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -93 21 8.1 0 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -71.5 39.5 8.1 3 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+8x8F" -43.5 112 8.1 2 0 1  0 0 0 0 0
++-NTOBJECTNAME _titanSpawn
+16x Ramp 1/2h" 51.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Cube 1/2h" -43 131 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -156 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 244.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 212.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -120 136.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -120 128.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 136.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 128.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 128.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 136.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -120 156.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -120 148.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 156.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 148.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 144.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 156.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 164 52.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 164 20.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 20.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 164 84.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" -76 179.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -76 163.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 164 116.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -44 248.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -32 236.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" 146 164.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -108 184.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 176.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 184.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -120 176.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -120 184.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 128 228 14 1 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -56 76.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -36 76.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -108 172.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 164.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 164.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -120 164.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -84 44.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -76 143.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+2x2F Round" 11.5 44 8.7 0 0 47  0 0 1 1 1
+2x2F Round" 11.5 43 8.7 0 0 47  0 0 1 1 1
+2x2F Round" 11.5 42 8.7 0 0 47  0 0 1 1 1
+2x2F Round" 11.5 41 8.7 0 0 47  0 0 1 1 1
+16x Cube 1/2h" 124 56 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -100 106.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -124 106.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 106.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -116 106.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 120.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -120 120.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -156 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" -36.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Ramp 1/2h" -44.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Ramp 1/2h" -52.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Ramp 1/2h" -60.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Cube 1/2h" -56 232.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -56 240.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -44 232.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -32 244.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" -76 258.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" 84 160.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 84 176.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube Steep" -76 100.5 32 0 0 54 Letters/-space 0 0 1 1 1
+32x Cube 1/4h" -76 127.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -84 79.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -84 71.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" -12 258.5 20 1 0 52 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -108 71.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 79.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -56 248.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -100 94.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 94.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -120.5 94.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 67 184 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -44 240.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -32 228.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 108 184.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 108 176.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 104 164.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 132 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 116 164.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 128 164.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -156 116.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 128 172.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -12 36.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -12 56.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -156 84.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 104 208.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 100 196.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 108 196.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 112 208.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube Steep" 84 229 32 0 0 54 Letters/-space 0 0 1 1 1
+32x Cube 1/4h" -56 56.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -56 36.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" -76 6.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" -36 36.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 76 208.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 92 208.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -36 56.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 84 258.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 92 196.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -60 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -12 6.5 20 1 0 52 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 84 196.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -28 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 84 208.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -92 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -124 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 67 176 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 112 228 14 1 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -84 63.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -84 52.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -20 248.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -84 36.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" 20 258.5 20 1 0 52 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -108 36.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -20 240.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 44.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 52.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -108 63.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -20 232.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 124.5 39 14 3 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 108.5 39 14 3 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 20.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 116 56 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 108 56 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 52.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 132 208.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 132 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 84.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 48 228.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 132 192.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 116.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 100 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 148.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 164.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 100 56 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 104 128.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -156 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 132 200.5 14 1 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -124 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube Steep" -76 229 32 0 0 54 Letters/-space 0 0 1 1 1
+64x Cube " 100 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -92 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 104 136.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 84 140.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -60 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 67 155 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 67 147 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -28 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 228.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 6.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 4 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 20 92.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 20 76.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 36 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 35.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Ramp 1/2h" 43.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+64x Cube " 68 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 100.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" -108 228 14 1 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 100 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 228.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 36.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 132 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 84 26 14 2 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -128.5 94.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 164 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 100.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 36 232.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 -43.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 128 128.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Ramp 1/2h" 59.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+64x Cube " 196 -11.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 40.5 76.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 60.5 76.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 20.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -124 228 14 1 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 67 139 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 52.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 49 115 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 41 115 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 84.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 36 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 128 136.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 116.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 33 115 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 148.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 35.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Ramp 1/2h" 43.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+64x Cube " 196 180.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 59.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Ramp 1/2h" 51.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+64x Cube " 196 212.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 67.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Cube 1/2h" 116 92.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 244.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 104 92.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 164 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 276.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 100 72 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 60.5 36.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 308.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -28.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Cube 1/2h" 60 232.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 308.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 108 72 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 36 248.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 180.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 116 72 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -76 195.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 212.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 48 236.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 36 240.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 244.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 48 244.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 124 72 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 276.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -68 211.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 84 124.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 340.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 67.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Cube Steep" 84 101 32 0 0 54 Letters/-space 0 0 1 1 1
+64x Cube " -188 372.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 104 108.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 104 100.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 404.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 116 100.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 36 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 60.5 56.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -31 115 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -156 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 40.5 36.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube 1/4h" 4 148.5 20 2 0 35 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 40.5 56.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -124 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -80 211.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -23 115 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -92 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 116 108.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -88 211.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -60 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 128 100.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 20 36.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -28 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 20 56.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" 116 136.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 4 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 128 108.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 104 120.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 36 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 116 128.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 128 116.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 68 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -120 192.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Ramp 1/2h" -52.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+64x Cube " 100 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -60.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Ramp 1/2h" -44.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+64x Cube " 132 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -36.5 99.5 18 1 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Cube 1/2h" -108 200.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 164 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -108 192.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -96 192.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 436.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 116 120.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -28 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 404.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 60 240.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -60 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 372.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" -96 211.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 104 148.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 340.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -11.5 80 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Cube 1/2h" 60 248.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -59 160 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 132 72 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -59 152 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -156 52.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 41 147 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -12 92.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -12 76.5 14 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+16x Ramp 1/2h" -28.5 91.5 18 3 0 0 ModTer/Grass_03 0 0 1 1 1
+16x Cube 1/2h" 67 168 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" 20 6.5 20 1 0 52 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -59 139 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 128 156.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -59 131 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -31 147 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -43 123 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 116 148.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -31 139 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -60 211.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 116 156.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -31 131 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -124 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -92 -11.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 132 56 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" 146 36.5 20 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 164 148.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 164 180.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 41 139 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 41 131 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -59 188 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -59 180 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -52 211.5 14 2 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 128 144.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" -59 168 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 164 212.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -59 196 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 164 244.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" 54 151 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 104 156.5 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 54 143 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -156 148.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 180.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Cube 1/2h" -59 123 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Cube 1/2h" 54 135 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube 1/4h" 4 180.5 20 2 0 35 ModTer/medievalBuilding 0 0 1 1 1
+16x Cube 1/2h" -43 139 14 3 0 53 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -12 76.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" -138 36.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 6.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" 88 22 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 88 30 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 80 30 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 80 22 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -130.5 92.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -138 100.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" -130.5 96.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 36.5 32.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 36.5 60.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 36.5 52.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 44.5 52.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 44.5 60.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 44.5 32.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 44.5 40.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 36.5 40.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 56.5 60.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 56.5 52.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 56.5 40.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 56.5 32.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 56.5 80.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" 20 56.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" 20 258.5 28 1 0 52 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 20 6.5 28 1 0 52 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" 102 130.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 130.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 138.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 138.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 134.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 134.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 130.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 130.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 138.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 138.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 134.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 134.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 142.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 138.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 134.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 130.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 158.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 158.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 154.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 154.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 150.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 150.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 146.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 146.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 146.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 154.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 154.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 158.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 158.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 146.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 146.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 150.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 150.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 154.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 158.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 170 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 166 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 170 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 166 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 178 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -76 6.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" -106 38.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 38.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 34.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 34.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 46.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 46.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 42.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 42.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 54.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 54.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 50.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 50.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 61.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 61.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 61.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 61.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 54.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 54.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 50.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 50.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 46.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 46.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 42.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 42.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 38.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 154.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 158.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 158.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 146.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 146.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 146.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 150.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 154.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 158.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 46 246.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 46 242.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 38 242.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 34 242.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 62 230.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 58 230.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 62 238.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 58 238.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 62 234.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 130.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 134.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 138.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 146.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 150.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 154.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 158.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" -76 143.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" -110 154.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 158.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 158.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 154.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 154.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 150.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 150.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 146.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 146.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 138.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 134.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 130.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 130.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 130.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 138.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 138.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 134.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 134.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 142.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 142.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 162.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 162.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 166.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 166.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 174.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 174.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 170.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 170.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 174.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 174.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 162.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 162.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 166.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 166.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 162.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 166.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 174.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 178.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 178.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 182.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 182.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 186.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 186.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 190.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 190.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 190.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 190.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 182.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 182.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 186.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 186.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 178.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 182.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 186.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 190.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 58 234.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 50 238.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 50 230.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 50 234.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 50 226.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 34 234.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 38 230.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 38 238.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 34 238.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 46 238.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 162.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 166.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 174.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 178.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 182.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 186.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 190.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" -76 163.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -76 179.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" -122 138.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 138.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 44.5 80.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 134.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 130.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 130.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 174 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 178 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -33 149 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -33 145 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -33 141 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -33 137 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -33 133 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -33 129 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -45 133 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -45 129 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -41 133 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -41 129 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 38.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 34.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -45 141 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -45 137 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -41 141 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -41 137 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 158 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 158 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 154 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 150 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 154 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 150 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 141 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 137 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 141 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 137 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 133 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 129 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 133 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 129 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -29 149 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -29 141 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -29 137 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -29 133 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -29 129 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 46 230.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 46 234.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 0 136.5 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 144.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 152.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" 146 228.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" -61 190 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 186 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 190 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 186 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 182 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 178 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 182 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 178 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 170 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 166 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 170 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 166 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 34.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 162 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 162 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 168.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 184.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 160.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 176.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 46 226.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 34 230.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 38 234.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 174 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" 128 228 18 1 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 112 228 18 1 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" -98 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 194.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 194.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 198.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 198.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 202.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 202.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 194.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 194.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 194.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -90 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -90 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -78 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -78 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -70 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -70 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -66 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -66 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 194.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" -76 195.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" 38 250.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" -108 228 18 1 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -124 228 18 1 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" 34 250.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -138 228.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" 34 246.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 38 246.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 50 246.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 62 250.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -138 164.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" 58 250.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 50 242.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 58 246.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -29 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -29 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x CornerC 1/2h" 16 192.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 8 192.5 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -21 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x16 Base" -76 229 40.1 0 0 54  0 0 1 1 1
+8x Ramp 1/2h" -25 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -21 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -25 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 121 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 198 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 194 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 198 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 194 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -57 125 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 121 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -54 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -50 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -50 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -54 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -61 125 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -33 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -62 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -58 213.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -58 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -62 209.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -33 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -41 121 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -41 125 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -45 121 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -45 125 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 64.5 40.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" -12 92.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" 62 246.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 58 242.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 62 242.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 0 192.5 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x CornerC 1/2h" -8 192.5 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 86 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 86 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -54 234.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -54 250.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -54 230.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -54 246.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -34 246.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -58 250.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -58 242.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -58 246.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -58 230.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -42 230.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -54 242.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -58 234.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -34 226.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -46 230.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -54 238.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -34 234.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -58 238.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -34 230.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -42 234.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -46 234.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -42 238.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -46 246.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -46 250.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -42 250.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -42 246.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -34 242.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -42 242.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -34 238.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -46 238.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -46 242.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 94 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 74 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -40 80.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -40 72.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -32 72.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -32 80.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -60 80.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -60 72.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -52 72.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -52 80.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -12 6.5 28 1 0 52 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" 78 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -52 60.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 74 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x16 Base" -76 100.5 40.1 0 0 54  0 0 1 1 1
+8x Ramp 1/2h" 78 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 82 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 90 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -22 242.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -18 242.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -30 246.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -18 238.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -22 234.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -30 242.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -22 230.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -18 246.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -22 238.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -30 238.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -30 234.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -22 246.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -30 230.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -30 226.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -22 250.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -18 234.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -18 230.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -18 250.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 94 194.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 94 198.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 90 198.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 90 194.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 86 194.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 86 198.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 82 198.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -52 52.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 82 194.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -60 52.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 90 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 82 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 94 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -60 60.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -52 40.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" 84 258.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" -52 32.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -60 32.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 194.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 198.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 174.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 170.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 166.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 186 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 166.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 166.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 162.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 162.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 162.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 162.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 166.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 166.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 174.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 178.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 182.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 186.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 174.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 182.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 178.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -60 40.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 198.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -32 40.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 194.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 194.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 198.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -32 32.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 126.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 122.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -94 118.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" -76 127.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" 98 198.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 98 194.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 206.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -126.5 96.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122.5 96.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118.5 96.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 96.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 96.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -40 32.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -40 40.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -32 60.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -32 52.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -102 96.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 96.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -102 104.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -102 108.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 108.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -40 52.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -40 60.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" -12 56.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" -12 36.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" -98 104.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -126 104.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -126 108.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 108.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -76 258.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" -122 104.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 104.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 108.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 108.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 186.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 104.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 104.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 108.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -114 108.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -114 104.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 126.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 122.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 118.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 126.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 126.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 126.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 126.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 122.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118 122.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" 84 160.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 84 176.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Cube Steep" -12 258.5 28 1 0 52 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" -118 118.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122 118.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 65.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 65.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 69.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 69.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 73.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 73.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 77.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 77.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -86 81.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -82 81.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -122.5 92.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 69.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 69.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 73.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 73.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -126.5 92.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 65.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 65.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 77.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 81.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 81.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 77.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -118.5 92.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 182 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 186 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 182 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -110 92.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -106 92.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -102 92.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -98 92.5 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 210.5 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 340.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 44.5 72.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 36.5 72.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 36.5 80.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 372.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 31 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 31 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 137 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 404.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 47 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 51 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 47 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 51 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 39 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 43 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 164 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 39 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 43 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 35 113 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 132 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 35 117 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 64.5 80.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 64.5 72.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 100 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 102 94.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 94.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 90.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 68 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 102 90.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 94.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 90.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 36 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 114 90.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 94.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 4 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 126 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 122 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 122 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -28 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 118 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -60 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 114 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -92 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 106 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -124 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 102 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 98 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 141 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -156 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 65 137 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 141 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" 84 124.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " -188 436.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 134 198.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 134 210.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 134 202.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 404.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x16 Base" 84 229 40.1 0 0 54  0 0 1 1 1
+8x Ramp 1/2h" 130 146.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 142.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 372.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 130 138.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 134.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 130.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 340.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 130 154.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 158.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 190.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 276.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 134 190.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 102.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 102.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 244.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 106 98.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 98.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 106.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 212.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 106 110.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 106.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 110.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 180.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 118 106.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 110.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 106.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 308.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 126 102.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 98.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 110.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 308.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 118 110.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 106.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 102.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 276.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 118 102.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 98.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 98.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 244.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 102 122.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 122.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 118.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 212.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 102 118.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 126.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 126.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 180.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 114 118.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 122.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 118.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 148.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 118 126.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 126.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 122.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 116.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 126 126.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 118.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 114.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 84.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 4 164.5 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 160.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 176.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 52.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 16 184.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 168.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" 4 180.5 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 20.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 56 133 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 56 137 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 52 133 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 -11.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 52 137 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 56 141 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 56 145 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 52 141 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 52 145 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 56 149 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 164 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 56 153 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 52 149 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 52 153 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 132 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 43 129 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 43 133 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 39 129 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 100 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 39 133 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 43 137 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 43 141 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 68 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 39 137 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 39 141 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2 Round" 11.5 44 9.1 0 0 56  0 0 1 1 1
+64x Cube " 36 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x16 Base" 84 101 40.1 0 0 54  0 0 1 1 1
+2x2 Round" 11.5 43 9.1 0 0 56  0 0 1 1 1
+2x2 Round" 11.5 42 9.1 0 0 56  0 0 1 1 1
+64x Cube " 4 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 128.5 43 18 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 128.5 35 18 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" 146 36.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -28 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 130 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 134 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2 Round" 11.5 41 9.1 0 0 56  0 0 1 1 1
+64x Cube " -60 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 130 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 134 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 134 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -92 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 134 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 74 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -124 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 100.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" 130 126.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 118.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -156 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 130 114.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 110.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 106.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 -43.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 130 102.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 98.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 43 145 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 148.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 43 149 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" 146 164.5 28 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Ramp 1/2h" 130 162.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 116.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 130 166.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 170.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 174.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 84.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" 39 145 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 39 149 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 8 136.5 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 52.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x CornerC 1/2h" 16 136.5 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 152.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 144.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 20.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 4 148.5 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" -29 145 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 162.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 -11.5 112 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Ramp 1/2h" -118 134.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" 20 36.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" 98 70 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 64.5 32.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 64.5 60.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 64.5 52.5 18 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 104.5 43 18 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 112.5 43 18 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 112.5 35 18 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 104.5 35 18 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 194.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 198.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 120.5 43 18 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 120.5 35 18 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 202.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 134 206.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 122 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 122 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 102 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 98 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 98 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 110 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 106 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 118 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 58 17 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 114 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 126 54 17 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 206.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 134 194.5 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 130 210.5 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" 84 140.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+8x Ramp 1/2h" 69 153 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 157 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 153 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 157 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 145 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 69 149 17 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 145 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Ramp 1/2h" 65 149 17 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+32x Cube 1/4h" 20 92.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+32x Cube 1/4h" 20 76.5 18 0 0 49 ModTer/medievalBuildingSide 0 0 1 1 1
+16x Ramp 1/2h" 56.5 72.5 18 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x CornerC 1/2h" -8 136.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -138 164.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 148.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -12 6.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 20 6.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" 80.5 97.5 41.7 0 0 54  0 0 1 1 1
+32x Cube 1/4h" -12 56.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 244.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 276.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" -72.5 225.5 41.7 0 0 54  0 0 1 1 1
+32x Cube 1/4h" -12 36.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -12 76.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 112 228 22 1 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 52.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 36 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 84 6.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" 84 124.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 128 228 22 1 0 49 ModTer/medievalBuilding 0 0 1 1 1
+2x2x5" 80.5 104.5 41.7 0 0 54  0 0 1 1 1
+64x Cube " -188 340.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 372.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 87.5 104.5 41.7 0 0 54  0 0 1 1 1
+32x Cube 1/4h" 4 180.5 30 3 0 0 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 146 36.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" 84 140.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 404.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -108 228 22 1 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 36 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 100.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+32x Cube 1/4h" 4 148.5 30 3 0 0 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 146 164.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -76 6.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -92 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 228.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 4 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 80.5 225.5 41.7 0 0 54  0 0 1 1 1
+32x Cube 1/4h" -12 92.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -76 163.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -76 195.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 84.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 87.5 225.5 41.7 0 0 54  0 0 1 1 1
+8x Cube Steep" 20 258.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 100.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" -72.5 232.5 41.7 0 0 54  0 0 1 1 1
+2x2 Round" 11.5 42 9.7 0 0 56  0 0 1 1 1
+2x2 Round" 11.5 41 9.7 0 0 56  0 0 1 1 1
+64x Cube " -60 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 36.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" -79.5 104 41.7 0 0 54  0 0 1 1 1
+8x16F" -4 82.5 19.9 1 0 52  0 0 1 0 1
+8x16F" 12 82.5 19.9 1 0 52  0 0 1 0 1
+64x Cube " -188 116.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 87.5 97.5 41.7 0 0 54  0 0 1 1 1
+64x Cube " -92 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -124 228 22 1 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 20 76.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 20 92.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 146 228.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -12 258.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -156 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -76 258.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2 Round" 11.5 44 9.7 0 0 56  0 0 1 1 1
+2x2 Round" 11.5 43 9.7 0 0 56  0 0 1 1 1
+32x Cube 1/4h" 84 160.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -124 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 -11.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 20.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 52.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 84.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 116.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 148.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -43.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 180.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 212.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 244.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -11.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 340.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 4 164.5 30 3 0 0 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" 84 176.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" 84 258.5 36 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" 80.5 232.5 41.7 0 0 54  0 0 1 1 1
+64x Cube " 196 276.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 308.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 372.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 87.5 232.5 41.7 0 0 54  0 0 1 1 1
+2x2x5" -72.5 97 41.7 0 0 54  0 0 1 1 1
+2x2x5" -79.5 97 41.7 0 0 54  0 0 1 1 1
+2x2x5" -79.5 225.5 41.7 0 0 54  0 0 1 1 1
+64x Cube " -188 308.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 20.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 404.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" -76 179.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+2x2x5" -72.5 104 41.7 0 0 54  0 0 1 1 1
+32x Cube 1/4h" -76 127.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+32x Cube 1/4h" -76 143.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " -188 180.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 212.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 436.5 144 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+32x Cube 1/4h" 20 36.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+2x2x5" -79.5 232.5 41.7 0 0 54  0 0 1 1 1
+32x Cube 1/4h" 20 56.5 22 0 0 49 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 52.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 116 224 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 24 40.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" -72.5 104 44.7 0 0 54  0 0 1 1 1
+64x Cube " 164 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 212.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -72 123.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -128 232 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 0 152.5 34 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 32.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 20.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 180.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 148.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 36.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 20 6.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" 124 224 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 88 128.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 404.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 308.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -112 224 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -138 36.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" 24 80.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 60.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" -72.5 97 44.7 0 0 54  0 0 1 1 1
+64x Cube " -60 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 308.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 372.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 88 180.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 72.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x CornerC 1/2h" 0 184.5 34 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" -72.5 232.5 44.7 0 0 54  0 0 1 1 1
+64x Cube " -188 -11.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 276.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 124 232 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -72 139.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -16 88.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 80.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -138 228.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 340.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 244.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 8 168.5 34 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -72 159.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 167.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" -72.5 225.5 44.7 0 0 54  0 0 1 1 1
+16x Ramp 1/2h" -120 232 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 80 172.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 212.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 84 6.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" 8 152.5 34 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" -79.5 104 44.7 0 0 54  0 0 1 1 1
+16x Ramp 1/2h" -72 167.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 175.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" 146 228.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 180.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 80.5 232.5 44.7 0 0 54  0 0 1 1 1
+16x CornerC 1/2h" 0 144.5 34 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -72 199.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2F Round" 11.5 41 10.1 0 0 55  0 0 1 1 1
+16x Ramp 1/2h" -104 224 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 24 32.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 148.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2F Round" 11.5 42 10.1 0 0 55  0 0 1 1 1
+16x Ramp 1/2h" -16 72.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -72 191.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" -79.5 97 44.7 0 0 54  0 0 1 1 1
+16x Ramp 1/2h" 8 160.5 34 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 116.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 164.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" -8 80.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 147.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 88 144.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -72 147.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -120 224 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 84.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 16 88.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 159.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 88 156.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -16 96.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 116 232 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -28 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 84.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 87.5 97.5 44.7 0 0 54  0 0 1 1 1
+16x Ramp 1/2h" -8 52.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 40.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2F Round" 11.5 43 10.1 0 0 55  0 0 1 1 1
+16x Ramp 1/2h" -80 123.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube " -2 82.5 22 3 0 0 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 196 20.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 88 136.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" 87.5 104.5 44.7 0 0 54  0 0 1 1 1
+8x Cube Steep" 146 164.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" -16 80.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 80 120.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" 87.5 232.5 44.7 0 0 54  0 0 1 1 1
+64x Cube " 196 -11.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 16 60.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -8 72.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 96.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 139.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" 87.5 225.5 44.7 0 0 54  0 0 1 1 1
+16x Ramp 1/2h" 80 128.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 196 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x CornerC 1/2h" 8 184.5 34 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" 84 258.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" -79.5 225.5 44.7 0 0 54  0 0 1 1 1
+16x Ramp 1/2h" 88 164.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 24 72.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 164 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -72 175.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 132 224 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -72 183.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" 20 258.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" 80.5 104.5 44.7 0 0 54  0 0 1 1 1
+64x Cube " 132 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -16 40.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -12 258.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2F Round" 11.5 44 10.1 0 0 55  0 0 1 1 1
+16x Ramp 1/2h" -8 88.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 183.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 4 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -112 232 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 80 164.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 88 120.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 80 180.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 0 176.5 34 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 24 88.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 68 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 0 160.5 34 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 131.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x CornerC 1/2h" 8 144.5 34 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 199.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -16 32.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -138 100.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 36 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -72 131.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 88 172.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 32.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" 80.5 97.5 44.7 0 0 54  0 0 1 1 1
+64x Cube " -188 244.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 80 144.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 108 224 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 0 168.5 34 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x5" -79.5 232.5 44.7 0 0 54  0 0 1 1 1
+16x Ramp 1/2h" -8 96.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 132 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 276.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 24 60.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " 100 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -76 6.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" 108 232 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -16 60.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -16 52.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 340.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 52.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 80.5 225.5 44.7 0 0 54  0 0 1 1 1
+16x Ramp 1/2h" -128 224 26 3 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 80 136.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -12 6.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 68 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 372.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 8 176.5 34 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 40.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 24 96.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" 16 52.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube Steep" -76 258.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp 1/2h" 80 156.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -188 404.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 132 232 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+16x Ramp 1/2h" -80 191.5 26 0 0 0 ModTer/TTdirt01 0 0 1 1 1
+8x Cube " 10 82.5 22 3 0 0 ModTer/medievalBuildingSide 0 0 1 1 1
+64x Cube " 36 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 -43.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 100.5 44 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -28 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 116.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" -104 232 26 1 0 0 ModTer/TTdirt01 0 0 1 1 1
+64x Cube " -124 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 436.5 176 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+16x Ramp 1/2h" 24 52.5 26 2 0 0 ModTer/TTdirt01 0 0 1 1 1
+2x2x2 Cone" 11.5 41 10.8 0 0 56  0 0 1 1 1
+64x Cube " -188 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 84.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 87.5 225.5 47.7 0 0 54  0 0 1 1 1
+2x2x5" 87.5 104.5 47.7 0 0 54  0 0 1 1 1
+2x2x5" 87.5 97.5 47.7 0 0 54  0 0 1 1 1
+2x2x5" -72.5 225.5 47.7 0 0 54  0 0 1 1 1
+64x Cube " -92 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 116.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 36 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 436.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 148.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 404.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x16F" 0 82.5 24.1 1 0 0  0 0 1 1 1
+64x Cube " 196 372.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 340.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 100.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x2 Cone" 11.5 44 10.8 0 0 56  0 0 1 1 1
+2x2x2 Cone" 11.5 43 10.8 0 0 56  0 0 1 1 1
+2x2x2 Cone" 11.5 42 10.8 0 0 56  0 0 1 1 1
+64x Cube " -188 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" -79.5 225.5 47.7 0 0 54  0 0 1 1 1
+8x Cube Steep" -138 228.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 164.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 20 6.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" 87.5 232.5 47.7 0 0 54  0 0 1 1 1
+8x Cube Steep" -76 6.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" 80.5 104.5 47.7 0 0 54  0 0 1 1 1
+2x2x5" 80.5 97.5 47.7 0 0 54  0 0 1 1 1
+64x Cube " -156 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -12 258.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 36.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" -79.5 104 47.7 0 0 54  0 0 1 1 1
+2x2x5" -72.5 104 47.7 0 0 54  0 0 1 1 1
+2x2x5" -72.5 232.5 47.7 0 0 54  0 0 1 1 1
+64x Cube " 36 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 -11.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 20.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 52.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 84.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 116.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 148.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 180.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 212.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 80.5 232.5 47.7 0 0 54  0 0 1 1 1
+8x Cube Steep" 20 258.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+8x16F" 8 82.5 24.1 1 0 0  0 0 1 1 1
+8x Cube Steep" 146 228.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 244.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 276.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -11.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 -43.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 308.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 84 258.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -12 6.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" -79.5 97 47.7 0 0 54  0 0 1 1 1
+8x Cube Steep" -138 100.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 308.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 180.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 20.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 212.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 244.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2x5" 80.5 225.5 47.7 0 0 54  0 0 1 1 1
+8x Cube Steep" 146 164.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" -79.5 232.5 47.7 0 0 54  0 0 1 1 1
+64x Cube " -188 276.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 340.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 36.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 52.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 372.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 404.5 208 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -76 258.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x5" -72.5 97 47.7 0 0 54  0 0 1 1 1
+8x Cube Steep" 84 6.5 52 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube " 2 82.5 22 3 0 0 ModTer/medievalBuilding 0 0 1 1 1
+8x Cube Steep" -138 100.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 36 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -12 6.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 164.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 4 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 20 258.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+16x16 Base" 84 229 49.3 0 0 54  0 0 1 1 1
+64x Cube " -156 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube " 6 82.5 22 3 0 0 ModTer/medievalBuilding 0 0 1 1 1
+64x Cube " 196 84.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 52.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 36 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 20.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 -11.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 244.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 436.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 404.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 116.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 164.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -12 258.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 20 6.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 404.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 228.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+16x16 Base" -76 229 49.3 0 0 54  0 0 1 1 1
+8x Cube Steep" -76 258.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 36.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 372.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 372.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -76 6.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 340.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 84 258.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 100.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+16x16 Base" -76 100.5 49.3 0 0 54  0 0 1 1 1
+8x Cube Steep" 146 228.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+16x16 Base" 84 101 49.3 0 0 54  0 0 1 1 1
+8x Cube Steep" 84 6.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 340.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 276.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -11.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 148.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 20.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 244.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 52.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 212.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 84.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 180.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 180.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 36.5 60 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -188 116.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 308.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 148.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 308.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 276.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 212.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 -43.5 240 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 100.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -28 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x CornerC Steep" 82 103 53.4 1 0 54 Letters/-space 0 0 1 1 1
+64x Cube " -60 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 146 228.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " -92 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2" 84 101 48.9 0 0 44  0 0 1 1 1
+8x16F" 4 82.5 19.9 1 0 52  0 0 1 0 1
+64x Cube " 196 84.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 68 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 36 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 404.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 404.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 116.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 4 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 372.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 372.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 340.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -28 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 276.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -60 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -11.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 148.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 244.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 20.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 212.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 52.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 180.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -92 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 340.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 84.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 180.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 308.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 116.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 308.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 148.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 276.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -188 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 244.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -124 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 196 212.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " -156 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" 20 6.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x CornerC Steep" 86 231 53.4 2 0 54 Letters/-space 0 0 1 1 1
+64x Cube " 132 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 132 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -76 258.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 36.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x CornerC Steep" -74 231 53.4 2 0 54 Letters/-space 0 0 1 1 1
+8x Cube Steep" 84 6.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 164 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x CornerC Steep" -78 231 53.4 1 0 54 Letters/-space 0 0 1 1 1
+8x CornerC Steep" -74 227 53.4 3 0 54 Letters/-space 0 0 1 1 1
+8x CornerC Steep" 82 99 53.4 0 0 54 Letters/-space 0 0 1 1 1
+8x CornerC Steep" -74 102.5 53.4 2 0 54 Letters/-space 0 0 1 1 1
+64x Cube " 100 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 100.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 36.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -12 6.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x CornerC Steep" -74 98.5 53.4 3 0 54 Letters/-space 0 0 1 1 1
+8x Cube Steep" -12 258.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 20 258.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -76 6.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 258.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x CornerC Steep" -78 227 53.4 0 0 54 Letters/-space 0 0 1 1 1
+64x Cube " 68 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -138 164.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+64x Cube " 196 -11.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+2x2" 84 229 48.9 0 0 44  0 0 1 1 1
+8x CornerC Steep" 86 103 53.4 2 0 54 Letters/-space 0 0 1 1 1
+8x Cube Steep" -138 228.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 164.5 68 1 0 54 ModTer/sand03 0 0 1 1 1
+8x CornerC Steep" -78 98.5 53.4 0 0 54 Letters/-space 0 0 1 1 1
+2x2" -76 229 48.9 0 0 44  0 0 1 1 1
+2x2" -76 100.5 48.9 0 0 44  0 0 1 1 1
+64x Cube " 196 20.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x CornerC Steep" 82 231 53.4 1 0 54 Letters/-space 0 0 1 1 1
+64x Cube " 36 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 100 -43.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x CornerC Steep" -78 102.5 53.4 1 0 54 Letters/-space 0 0 1 1 1
+8x CornerC Steep" 82 227 53.4 0 0 54 Letters/-space 0 0 1 1 1
+8x CornerC Steep" 86 227 53.4 3 0 54 Letters/-space 0 0 1 1 1
+64x Cube " 4 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x CornerC Steep" 86 99 53.4 3 0 54 Letters/-space 0 0 1 1 1
+64x Cube " 196 52.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+64x Cube " 164 436.5 272 3 0 54 Letters/-space 0 0 0 1 0
++-NTOBJECTNAME _invisibleWall
+8x Cube Steep" -76 258.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2" -76 100.5 50.1 0 0 44  0 0 1 1 1
+8x Cube Steep" 20 258.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 36.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -12 6.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2" -76 229 50.1 0 0 44  0 0 1 1 1
+4x4" -76 229 48.3 0 0 44  0 0 1 1 1
+8x Cube Steep" 146 100.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2" 84 101 50.1 0 0 44  0 0 1 1 1
+8x Cube Steep" -138 228.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 6.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+4x4" 84 101 48.3 0 0 44  0 0 1 1 1
+8x Cube Steep" 146 228.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -12 258.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 164.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 36.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 258.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -76 6.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2" 84 229 50.1 0 0 44  0 0 1 1 1
+4x4" 84 229 48.3 0 0 44  0 0 1 1 1
+8x Cube Steep" 20 6.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+4x4" -76 100.5 48.3 0 0 44  0 0 1 1 1
+8x Cube Steep" -138 164.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 100.5 76 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp Corner" -77 230 47.7 3 0 44  0 0 1 1 1
+45° Ramp 2x" 85 101 47.7 1 0 44  0 0 1 1 1
+45° Ramp 2x" 83 229 47.7 3 0 44  0 0 1 1 1
+45° Ramp 2x" -77 229 47.7 3 0 44  0 0 1 1 1
+45° Ramp 2x" -75 229 47.7 1 0 44  0 0 1 1 1
+8x Cube Steep" -12 6.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp 2x" 85 229 47.7 1 0 44  0 0 1 1 1
+8x Cube Steep" -138 36.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp Corner" -77 101.5 47.7 3 0 44  0 0 1 1 1
+45° Ramp Corner" -75 101.5 47.7 0 0 44  0 0 1 1 1
+8x Cube Steep" 146 36.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 20 6.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 164.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp 2x" -77 100.5 47.7 3 0 44  0 0 1 1 1
+45° Ramp 2x" 84 228 47.7 2 0 44  0 0 1 1 1
+45° Ramp Corner" 83 230 47.7 3 0 44  0 0 1 1 1
+45° Ramp Corner" 83 100 47.7 2 0 44  0 0 1 1 1
+45° Ramp 2x" -76 230 47.7 0 0 44  0 0 1 1 1
+45° Ramp 2x" -76 228 47.7 2 0 44  0 0 1 1 1
+8x Cube Steep" 146 164.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 20 258.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp Corner" -75 228 47.7 1 0 44  0 0 1 1 1
+45° Ramp Corner" -75 230 47.7 0 0 44  0 0 1 1 1
+45° Ramp 2x" -76 99.5 47.7 2 0 44  0 0 1 1 1
+45° Ramp Corner" 83 102 47.7 3 0 44  0 0 1 1 1
+45° Ramp Corner" 85 228 47.7 1 0 44  0 0 1 1 1
+45° Ramp 2x" 83 101 47.7 3 0 44  0 0 1 1 1
+45° Ramp Corner" 85 230 47.7 0 0 44  0 0 1 1 1
+8x Cube Steep" -76 6.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp Corner" 85 100 47.7 1 0 44  0 0 1 1 1
+8x Cube Steep" 146 100.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp 2x" 84 100 47.7 2 0 44  0 0 1 1 1
+8x Cube Steep" -76 258.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp 2x" -75 100.5 47.7 1 0 44  0 0 1 1 1
+8x Cube Steep" -138 100.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp 2x" 84 230 47.7 0 0 44  0 0 1 1 1
+8x Cube Steep" 84 6.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp 2x" 84 102 47.7 0 0 44  0 0 1 1 1
+8x Cube Steep" -12 258.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 258.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+45° Ramp Corner" -77 99.5 47.7 2 0 44  0 0 1 1 1
+45° Ramp Corner" -75 99.5 47.7 1 0 44  0 0 1 1 1
+45° Ramp Corner" -77 228 47.7 2 0 44  0 0 1 1 1
+45° Ramp Corner" 85 102 47.7 0 0 44  0 0 1 1 1
+45° Ramp 2x" -76 101.5 47.7 0 0 44  0 0 1 1 1
+45° Ramp Corner" 83 228 47.7 2 0 44  0 0 1 1 1
+8x Cube Steep" -138 228.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 228.5 84 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp Corner" 85.5 227.5 46.5 1 0 44  0 0 1 1 1
+72° Ramp 2x" -75.5 227.5 46.5 2 0 44  0 0 1 1 1
+8x Cube Steep" 146 36.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp 2x" -77.5 101 46.5 3 0 44  0 0 1 1 1
+72° Ramp 2x" -76.5 230.5 46.5 0 0 44  0 0 1 1 1
+72° Ramp 2x" 85.5 229.5 46.5 1 0 44  0 0 1 1 1
+72° Ramp Corner" -74.5 230.5 46.5 0 0 44  0 0 1 1 1
+72° Ramp Corner" -74.5 102 46.5 0 0 44  0 0 1 1 1
+8x Cube Steep" 20 6.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 6.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp 2x" -74.5 101 46.5 1 0 44  0 0 1 1 1
+72° Ramp Corner" 85.5 99.5 46.5 1 0 44  0 0 1 1 1
+72° Ramp Corner" -77.5 102 46.5 3 0 44  0 0 1 1 1
+72° Ramp 2x" -75.5 99 46.5 2 0 44  0 0 1 1 1
+72° Ramp 2x" -75.5 102 46.5 0 0 44  0 0 1 1 1
+72° Ramp Corner" 82.5 102.5 46.5 3 0 44  0 0 1 1 1
+72° Ramp 2x" 84.5 102.5 46.5 0 0 44  0 0 1 1 1
+72° Ramp 2x" 82.5 101.5 46.5 3 0 44  0 0 1 1 1
+72° Ramp 2x" 84.5 230.5 46.5 0 0 44  0 0 1 1 1
+72° Ramp 2x" 82.5 228.5 46.5 3 0 44  0 0 1 1 1
+72° Ramp 2x" 83.5 227.5 46.5 2 0 44  0 0 1 1 1
+72° Ramp 2x" 82.5 229.5 46.5 3 0 44  0 0 1 1 1
+72° Ramp 2x" 83.5 99.5 46.5 2 0 44  0 0 1 1 1
+72° Ramp 2x" -75.5 230.5 46.5 0 0 44  0 0 1 1 1
+8x Cube Steep" -138 164.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp 2x" 83.5 230.5 46.5 0 0 44  0 0 1 1 1
+72° Ramp Corner" 85.5 102.5 46.5 0 0 44  0 0 1 1 1
+8x Cube Steep" -12 258.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp 2x" -77.5 229.5 46.5 3 0 44  0 0 1 1 1
+72° Ramp 2x" -74.5 228.5 46.5 1 0 44  0 0 1 1 1
+72° Ramp 2x" 85.5 228.5 46.5 1 0 44  0 0 1 1 1
+72° Ramp 2x" -74.5 100 46.5 1 0 44  0 0 1 1 1
+72° Ramp 2x" 84.5 227.5 46.5 2 0 44  0 0 1 1 1
+72° Ramp 2x" -77.5 100 46.5 3 0 44  0 0 1 1 1
+8x Cube Steep" -76 258.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp 2x" 85.5 100.5 46.5 1 0 44  0 0 1 1 1
+8x Cube Steep" -138 100.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp 2x" 85.5 101.5 46.5 1 0 44  0 0 1 1 1
+72° Ramp 2x" 82.5 100.5 46.5 3 0 44  0 0 1 1 1
+72° Ramp Corner" -77.5 230.5 46.5 3 0 44  0 0 1 1 1
+8x Cube Steep" 20 258.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" -138 36.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp Corner" 85.5 230.5 46.5 0 0 44  0 0 1 1 1
+72° Ramp Corner" 82.5 99.5 46.5 2 0 44  0 0 1 1 1
+72° Ramp 2x" -74.5 229.5 46.5 1 0 44  0 0 1 1 1
+72° Ramp 2x" 84.5 99.5 46.5 2 0 44  0 0 1 1 1
+72° Ramp Corner" -74.5 99 46.5 1 0 44  0 0 1 1 1
+72° Ramp 2x" -76.5 227.5 46.5 2 0 44  0 0 1 1 1
+72° Ramp Corner" 82.5 230.5 46.5 3 0 44  0 0 1 1 1
+8x Cube Steep" -76 6.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 84 258.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp Corner" -74.5 227.5 46.5 1 0 44  0 0 1 1 1
+72° Ramp 2x" 83.5 102.5 46.5 0 0 44  0 0 1 1 1
+8x Cube Steep" -12 6.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp 2x" -77.5 228.5 46.5 3 0 44  0 0 1 1 1
+72° Ramp Corner" -77.5 99 46.5 2 0 44  0 0 1 1 1
+72° Ramp Corner" -77.5 227.5 46.5 2 0 44  0 0 1 1 1
+8x Cube Steep" -138 228.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp 2x" -76.5 99 46.5 2 0 44  0 0 1 1 1
+8x Cube Steep" 146 164.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+8x Cube Steep" 146 100.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+72° Ramp Corner" 82.5 227.5 46.5 2 0 44  0 0 1 1 1
+72° Ramp 2x" -76.5 102 46.5 0 0 44  0 0 1 1 1
+8x Cube Steep" 146 228.5 92 1 0 54 ModTer/sand03 0 0 1 1 1
+2x2x3" 84.5 99.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -74.5 228.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -74.5 230.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 99.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -76.5 227.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -77.5 102 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 230.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -74.5 227.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 85.5 230.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -75.5 230.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -77.5 100 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 102.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 228.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 227.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 84.5 230.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -74.5 101 44.7 0 0 44  0 0 1 1 1
+2x2x3" 83.5 227.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -76.5 230.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 83.5 99.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 83.5 102.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 229.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 85.5 100.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -74.5 99 44.7 0 0 44  0 0 1 1 1
+2x2x3" -74.5 102 44.7 0 0 44  0 0 1 1 1
+2x2x3" -77.5 230.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -74.5 229.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 100.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 85.5 102.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -76.5 99 44.7 0 0 44  0 0 1 1 1
+2x2x3" -77.5 101 44.7 0 0 44  0 0 1 1 1
+2x2x3" -77.5 228.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 101.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 85.5 227.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 85.5 228.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -76.5 102 44.7 0 0 44  0 0 1 1 1
+2x2x3" 85.5 99.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -75.5 227.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 84.5 102.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -74.5 100 44.7 0 0 44  0 0 1 1 1
+2x2x3" 85.5 229.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 84.5 227.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -75.5 102 44.7 0 0 44  0 0 1 1 1
+2x2x3" -77.5 227.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 83.5 230.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" 85.5 101.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -77.5 229.5 44.7 0 0 44  0 0 1 1 1
+2x2x3" -77.5 99 44.7 0 0 44  0 0 1 1 1
+2x2x3" -75.5 99 44.7 0 0 44  0 0 1 1 1
+2x2x3" 82.5 227.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 84.5 230.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 83.5 99.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 85.5 99.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 82.5 99.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 82.5 101.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -77.5 228.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -75.5 230.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 83.5 102.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -74.5 230.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -74.5 229.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -74.5 228.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -74.5 99 42.9 0 0 44  0 0 1 1 1
+2x2x3" -75.5 99 42.9 0 0 44  0 0 1 1 1
+2x2x3" -74.5 101 42.9 0 0 44  0 0 1 1 1
+2x2x3" 84.5 99.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -76.5 102 42.9 0 0 44  0 0 1 1 1
+2x2x3" -75.5 227.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 83.5 227.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 82.5 229.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -77.5 101 42.9 0 0 44  0 0 1 1 1
+2x2x3" -77.5 99 42.9 0 0 44  0 0 1 1 1
+2x2x3" -77.5 100 42.9 0 0 44  0 0 1 1 1
+2x2x3" -77.5 229.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -76.5 227.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 85.5 227.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -74.5 100 42.9 0 0 44  0 0 1 1 1
+2x2x3" 85.5 230.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -77.5 102 42.9 0 0 44  0 0 1 1 1
+2x2x3" 82.5 228.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 85.5 100.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -76.5 99 42.9 0 0 44  0 0 1 1 1
+2x2x3" -76.5 230.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -75.5 102 42.9 0 0 44  0 0 1 1 1
+2x2x3" -74.5 227.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 82.5 100.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 85.5 229.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 83.5 230.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 82.5 102.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 85.5 102.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 84.5 102.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 85.5 101.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 82.5 230.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 84.5 227.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -77.5 230.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -77.5 227.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" 85.5 228.5 42.9 0 0 44  0 0 1 1 1
+2x2x3" -74.5 102 42.9 0 0 44  0 0 1 1 1
+64x Cube " 4 276.5 48 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp Steep Inv." 15 272.5 24 0 0 52 ModTer/sand03 0 0 1 1 1
+16x Ramp Inv." 15 264.5 28 0 0 52 ModTer/sand03 0 0 1 1 1
+16x Ramp Inv." -7 272.5 28 2 0 52 ModTer/sand03 0 0 1 1 1
+16x Ramp Steep Inv." 15 288.5 24 0 0 52 ModTer/sand03 0 0 1 1 1
+16x Ramp Inv." -7 288.5 28 2 0 52 ModTer/sand03 0 0 1 1 1
+16x Ramp Steep Inv." -7 280.5 24 2 0 52 ModTer/sand03 0 0 1 1 1
+16x Ramp Inv." 15 280.5 28 0 0 52 ModTer/sand03 0 0 1 1 1
+64x Cube " 4 276.5 80 1 0 54 ModTer/sand03 0 0 1 1 1
+16x Ramp Steep Inv." -7 264.5 24 2 0 52 ModTer/sand03 0 0 1 1 1
