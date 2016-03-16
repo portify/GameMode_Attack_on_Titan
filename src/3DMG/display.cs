@@ -1,6 +1,6 @@
 function vectorToYawAngle(%vector)
 {
-	return mATan(getWord(%vector, 1), getWord(%vector, 0));
+	return mATan(getWord(%vector, 0), getWord(%vector, 1));
 }
 
 function angleToCompass(%angle)
