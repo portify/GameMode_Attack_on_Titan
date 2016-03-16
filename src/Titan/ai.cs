@@ -10,7 +10,7 @@ function AIPlayer::updateTitan(%this)
 	%eyePoint = %this.getEyePoint();
 	%eyeVector = %this.getEyeVector();
 
-	if (isObject(%this.target) && %this.target.getState() $= "Dead" || %this.isBlind)
+	if (isObject(%this.target) && %this.target.getState() $= "Dead" || %this.isBlind || %this.target.isBeingEaten)
 	{
 		%this.target = 0;
 	}
@@ -27,6 +27,11 @@ function AIPlayer::updateTitan(%this)
 			}
 
 			if (!%this.canTitanSee(%obj))
+			{
+				continue;
+			}
+
+			if (%obj.isBeingEaten)
 			{
 				continue;
 			}
@@ -151,21 +156,24 @@ function Player::_strafeProbe(%this, %direction, %length, %mask)
 
 function AIPlayer::titanCheckAttack(%this, %target)
 {
-	// %this.titanComboSchedule();
+	%data = %this.getDatablock();
 	if(getWord(%target.getHackPosition(), 2) - getWord(%this.getHackPosition(), 2) <= -0.2)
 	{
 		%this.AITitanKick();
+		return;
+	}
+	if(!%this.getDatablock().canJump && getWord(%target.getPosition(), 2) - getWord(%this.getPosition(), 2) >= ((getWord(%data.boundingBox, 2)/4) * getWord(%this.getScale(), 2)))
+	{
+		%this.TitanGrabAttack(1);
+		return;
+	}
+	if(getRandom() > 0.35)
+	{
+		%this.TitanGrabAttack(0);
 	}
 	else
 	{
-		if(getRandom() > 0.35)
-		{
-			%this.TitanGrab();
-		}
-		else
-		{
-			%this.titanComboSchedule();
-		}
+		%this.titanComboSchedule();
 	}
 }
 
@@ -387,48 +395,94 @@ function AIPlayer::AITitanKick(%this)
 	}
 }
 
-function AIPlayer::TitanGrab(%this)
+function AIPlayer::TitanGrabAttack(%this, %type)
 {
 	if(!isObject(%this) || %this.getState() $= "Dead")
 	{
 		return;
 	}
-	serverPlay3d(TitanPunchSound, %this.getHackPosition());
-	%this.lastAttackTime = $Sim::Time;
-	%this.playThreadIfAlive(1, armReadyRight);
-	%this.playThreadIfAlive(2, shiftAway);
+	if (%type == 0) // Forward grab
+	{
+		serverPlay3d(TitanPunchSound, %this.getHackPosition());
+		%this.lastAttackTime = $Sim::Time;
+		%this.playThreadIfAlive(1, armReadyRight);
+		%this.playThreadIfAlive(2, shiftAway);
+		%scale = getWord(%this.getScale(), 2);
+
+		%hackPosition = %this.getHackPosition();
+		%forwardVector = %this.getForwardVector();
+		%start = vectorAdd(%hackPosition, vectorScale(%forwardVector, 0.5 * %scale));
+		initContainerRadiusSearch(%start, 0.4 * %scale, $TypeMasks::PlayerObjectType);
+
+		while (%obj = containerSearchNext())
+		{
+			if (%obj.getDataBlock().isTitan || %obj.isBeingEaten)
+			{
+				continue;
+			}
+
+			%direct = vectorSub(%obj.getHackPosition(), %start);
+			%delta = vectorDot(%forwardVector, vectorNormalize(%direct));
+
+			if (%delta >= 0.75)
+			{
+				%this.titanGrab(%obj);
+				break;
+			}
+		}
+		if(!%found) %this.playThreadIfAlive(1, root);
+	}
+	if (%type == 1) //Grab from head
+	{
+		%this.lastAttackTime = $Sim::Time;
+		%this.playThreadIfAlive(1, armReadyRight);
+		%this.playThreadIfAlive(3, spearReady);
+		%this.attackSchedule = %this.schedule(1000, TitanHeadGrabCheck);
+	}
+}
+
+function AIPlayer::TitanHeadGrabCheck(%this)
+{
 	%scale = getWord(%this.getScale(), 2);
-
-	%hackPosition = %this.getHackPosition();
-	%forwardVector = %this.getForwardVector();
-	%start = vectorAdd(%hackPosition, vectorScale(%forwardVector, 0.5 * %scale));
+	%start = vectorAdd(%this.getPosition(), "0 0" SPC (getWord(%this.getDataBlock().boundingBox, 2)/4) * %scale);
 	initContainerRadiusSearch(%start, 0.4 * %scale, $TypeMasks::PlayerObjectType);
-
+	%this.playThreadIfAlive(1, root);
 	while (%obj = containerSearchNext())
 	{
 		if (%obj.getDataBlock().isTitan || %obj.isBeingEaten)
 		{
 			continue;
 		}
-
-		%direct = vectorSub(%obj.getHackPosition(), %start);
-		%delta = vectorDot(%forwardVector, vectorNormalize(%direct));
-
-		if (%delta >= 0.75)
-		{
-			%this.schedule(1500, playThreadIfAlive, 3, spearReady);
-			%this.mountObject(%obj, 0);
-			%obj.setControlObject(%obj);
-			if(isObject(%obj.client)) serverCmdUnuseTool(%obj.client);
-			%obj.canDismount = false;
-			%obj.isBeingEaten = true;
-			%this.isEating = true;
-			%this.attackSchedule = %this.schedule(3000, TitanEat, %obj);
-			%found = true;
-			break;
-		}
+		%this.titanGrab(%obj);
+		break;
 	}
-	if(!%found) %this.playThreadIfAlive(1, root);
+	if(!%found)
+	{
+		%this.playThreadIfAlive(1, root);
+		%this.playThreadIfAlive(3, root);
+	}
+}
+
+function AIPlayer::TitanGrab(%this, %col)
+{
+	if(!isObject(%this) || %this.getState() $= "Dead")
+	{
+		return;
+	}
+	%this.schedule(1500, playThreadIfAlive, 3, spearReady);
+	%this.mountObject(%col, 0);
+	if(isObject(%cl = %col.client))
+	{
+		serverCmdUnuseTool(%cl);
+		// %cl.camera.mode = "Orbit";
+		%cl.camera.setOrbitMode(%this, %this.getTransform(), 0, 10, 0, 1);
+		%cl.setControlObject(%cl.camera);
+	}
+	%col.canDismount = false;
+	%col.isBeingEaten = true;
+	%this.isEating = true;
+	%this.attackSchedule = %this.schedule(4000, TitanEat, %col);
+	%found = true;
 }
 
 function AIPlayer::TitanEat(%this, %col)
@@ -603,6 +657,41 @@ package TitanPackage
 		return %obj;
 	}
 
+	function Observer::onTrigger(%this, %obj, %trig, %tog)
+	{
+		%client = %obj.getControllingClient();
+
+		if(isObject(%client.player) && %client.player.getObjectMount().isTitan)
+		{
+			if (isObject(%client.player.getMountedImage(0)) && %trig == 0)
+			{
+				%client.player.setImageTrigger(0, %tog);
+			}
+			else
+			{
+				%client.player.getDataBlock().onTrigger(%client.player, %trig, %tog);
+			}
+			return;
+		}
+
+		parent::onTrigger(%this, %obj, %trig, %tog);
+	}
+
+	function Armor::onUnMount(%this, %obj, %mount, %slot)
+	{
+		Parent::onUnMount(%this, %obj, %mount, %slot);
+		if (!%obj.isBeingEaten || !%mount.isEating)
+			return;
+		if (isObject(%client = %obj.client) && isObject(%client.camera))
+		{
+			%client.camera.setControlObject(%client);
+			%client.setControlObject(%obj);
+		}
+		%mount.isEating = false;
+		%obj.isBeingEaten = false;
+		%obj.canDismount = true;
+	}
+
 	function Armor::damage(%this, %obj, %src, %pos, %damage, %type)
 	{
 		%obj.lastDamage = $Sim::Time;
@@ -648,7 +737,7 @@ package TitanPackage
 		if (%obj.isJumpAttacking && %col.getType() & $TypeMasks::PlayerObjectType)
 		{
 			if(!%obj.isOnGround() && getWord(%col.getHackPosition(), 2) - getWord(%obj.getHackPosition(), 2) > 1)
-				%col.damage(%this, %col.getPosition(), 10000, $DamageType::Suicide);
+				%obj.TitanGrab(%col);
 		}
 	}
 };

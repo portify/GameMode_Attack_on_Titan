@@ -1,7 +1,7 @@
 $Pref::Server::GrappleRopeAnywhere = 1;
 $AOT::Folder = "Add-Ons/GameMode_Attack_on_Titan/";
 
-exec("./lib/decals.cs");
+// exec("./lib/decals.cs"); //Outdated as FUCK
 exec("./lib/isOnGround.cs");
 exec("./lib/misc.cs");
 
